@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RegressionSuite for Automation">
+<listeners>
+<listener class-name="com.nadsoft.listners.MyListners"/>
+</listeners>
+  <test name="Test Cases">
+    <classes>
+      <class name="com.testngTest1.VerifyRegisterFunctionalityTest"/>
+      <class name="com.testngTest1.VeriyLoginFunctionalityTest"/> 
+      <class name="com.testngTest1.VerifySearchFunctinalityTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuite -->

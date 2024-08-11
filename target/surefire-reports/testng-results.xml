@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="10" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T10:01:21 PDT" name="RegressionSuite for Automation" finished-at="2024-08-10T10:02:39 PDT" duration-ms="77880">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T10:01:21 PDT" name="Test Cases" finished-at="2024-08-10T10:02:39 PDT" duration-ms="77880">
+      <class name="com.testngTest1.VerifyRegisterFunctionalityTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:22 PDT" name="setup" finished-at="2024-08-10T10:01:25 PDT" duration-ms="3708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyregisteringwithsameemail()[pri:1, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:25 PDT" name="verifyregisteringwithsameemail" finished-at="2024-08-10T10:01:29 PDT" duration-ms="3498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisteringwithsameemail -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:29 PDT" name="teardown" finished-at="2024-08-10T10:01:29 PDT" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:29 PDT" name="setup" finished-at="2024-08-10T10:01:34 PDT" duration-ms="5095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyregisteringanaccwithmandatoryfeild()[pri:2, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:34 PDT" name="verifyregisteringanaccwithmandatoryfeild" finished-at="2024-08-10T10:01:36 PDT" duration-ms="2136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisteringanaccwithmandatoryfeild -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:36 PDT" name="teardown" finished-at="2024-08-10T10:01:37 PDT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:37 PDT" name="setup" finished-at="2024-08-10T10:01:41 PDT" duration-ms="4764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyregisteraccbyprovidingallfeild()[pri:3, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:41 PDT" name="verifyregisteraccbyprovidingallfeild" finished-at="2024-08-10T10:01:43 PDT" duration-ms="1674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisteraccbyprovidingallfeild -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VerifyRegisterFunctionalityTest@36902638]" started-at="2024-08-10T10:01:43 PDT" name="teardown" finished-at="2024-08-10T10:01:43 PDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testngTest1.VerifyRegisterFunctionalityTest -->
+      <class name="com.testngTest1.VeriyLoginFunctionalityTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:43 PDT" name="setup" finished-at="2024-08-10T10:01:49 PDT" duration-ms="5806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="wrongemailpassverifyerrormsg()[pri:1, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:49 PDT" name="wrongemailpassverifyerrormsg" finished-at="2024-08-10T10:01:50 PDT" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongemailpassverifyerrormsg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:50 PDT" name="teardown" finished-at="2024-08-10T10:01:50 PDT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:50 PDT" name="setup" finished-at="2024-08-10T10:01:56 PDT" duration-ms="6150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="correctemailwrongpass()[pri:2, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:56 PDT" name="correctemailwrongpass" finished-at="2024-08-10T10:01:58 PDT" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctemailwrongpass -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:58 PDT" name="teardown" finished-at="2024-08-10T10:01:58 PDT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:01:58 PDT" name="setup" finished-at="2024-08-10T10:02:03 PDT" duration-ms="5712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="wrongemailcorrectpass()[pri:3, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:03 PDT" name="wrongemailcorrectpass" finished-at="2024-08-10T10:02:04 PDT" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongemailcorrectpass -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:04 PDT" name="teardown" finished-at="2024-08-10T10:02:05 PDT" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:06 PDT" name="setup" finished-at="2024-08-10T10:02:12 PDT" duration-ms="5843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogingusingcorrectemailpass(java.lang.String,java.lang.String)[pri:4, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:12 PDT" name="verifylogingusingcorrectemailpass" data-provider="testData" finished-at="2024-08-10T10:02:13 PDT" duration-ms="1270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ngshubham17@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shubham17796]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogingusingcorrectemailpass -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:13 PDT" name="teardown" finished-at="2024-08-10T10:02:13 PDT" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:13 PDT" name="setup" finished-at="2024-08-10T10:02:19 PDT" duration-ms="5425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogingusingcorrectemailpass(java.lang.String,java.lang.String)[pri:4, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:19 PDT" name="verifylogingusingcorrectemailpass" data-provider="testData" finished-at="2024-08-10T10:02:20 PDT" duration-ms="1287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogingusingcorrectemailpass -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:20 PDT" name="teardown" finished-at="2024-08-10T10:02:20 PDT" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:20 PDT" name="setup" finished-at="2024-08-10T10:02:26 PDT" duration-ms="6108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogingusingcorrectemailpass(java.lang.String,java.lang.String)[pri:4, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:26 PDT" name="verifylogingusingcorrectemailpass" data-provider="testData" finished-at="2024-08-10T10:02:27 PDT" duration-ms="1134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogingusingcorrectemailpass -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VeriyLoginFunctionalityTest@7cc0cdad]" started-at="2024-08-10T10:02:27 PDT" name="teardown" finished-at="2024-08-10T10:02:28 PDT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testngTest1.VeriyLoginFunctionalityTest -->
+      <class name="com.testngTest1.VerifySearchFunctinalityTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:28 PDT" name="setup" finished-at="2024-08-10T10:02:33 PDT" duration-ms="5005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifysearchwithvalidprduct()[pri:1, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:33 PDT" name="verifysearchwithvalidprduct" finished-at="2024-08-10T10:02:33 PDT" duration-ms="689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchwithvalidprduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:33 PDT" name="teardown" finished-at="2024-08-10T10:02:33 PDT" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:33 PDT" name="setup" finished-at="2024-08-10T10:02:38 PDT" duration-ms="4966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifysearchwithinvalidprduct()[pri:2, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:38 PDT" name="verifysearchwithinvalidprduct" finished-at="2024-08-10T10:02:39 PDT" duration-ms="554" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[WarningMsgForSearchingInvalidProduct expected [abcd] but found [Products meeting the search criteria]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: WarningMsgForSearchingInvalidProduct expected [abcd] but found [Products meeting the search criteria]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithinvalidprduct(VerifySearchFunctinalityTest.java:41)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchwithinvalidprduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:39 PDT" name="teardown" finished-at="2024-08-10T10:02:39 PDT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="verifysearchwithutenteringproduct()[pri:3, instance:com.testngTest1.VerifySearchFunctinalityTest@368f2016]" started-at="2024-08-10T10:02:39 PDT" name="verifysearchwithutenteringproduct" finished-at="2024-08-10T10:02:39 PDT" depends-on-methods="com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithvalidprduct, com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithinvalidprduct" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithutenteringproduct() on instance com.testngTest1.VerifySearchFunctinalityTest@368f2016 depends on not successfully finished methods 
+[com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithvalidprduct() on instance com.testngTest1.VerifySearchFunctinalityTest@368f2016
+com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithinvalidprduct() on instance com.testngTest1.VerifySearchFunctinalityTest@368f2016]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithutenteringproduct() on instance com.testngTest1.VerifySearchFunctinalityTest@368f2016 depends on not successfully finished methods 
+[com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithvalidprduct() on instance com.testngTest1.VerifySearchFunctinalityTest@368f2016
+com.testngTest1.VerifySearchFunctinalityTest.verifysearchwithinvalidprduct() on instance com.testngTest1.VerifySearchFunctinalityTest@368f2016]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:157)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchwithutenteringproduct -->
+      </class> <!-- com.testngTest1.VerifySearchFunctinalityTest -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- RegressionSuite for Automation -->
+</testng-results>
