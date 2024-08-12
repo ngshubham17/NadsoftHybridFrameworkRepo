@@ -23,7 +23,8 @@ public class VerifySearchFunctinalityTest extends Base {
 		driver = initilizeBrowser(prop.getProperty("browserName"));
 		driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
 	}
-
+	
+	//Searching with valid product.
 	@Test(priority = 1)
 	public void verifysearchwithvalidprduct() {
 		SearchPage search = new SearchPage(driver);
