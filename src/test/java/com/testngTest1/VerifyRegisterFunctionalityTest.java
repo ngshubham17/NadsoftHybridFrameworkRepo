@@ -65,7 +65,7 @@ public class VerifyRegisterFunctionalityTest extends Base {
 		Assert.assertEquals(welcomemsg, Expectedmsg, "Unable To Proceed");
 
 	}
-
+//This method verifies with same email.
 	@Test(priority = 1)
 	public void verifyregisteringwithsameemail() {
 		RegisterPage register = new RegisterPage(driver);
